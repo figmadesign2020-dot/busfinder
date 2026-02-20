@@ -1,0 +1,9 @@
+!DOCTYPE html
+html
+body
+h1Testh1
+script
+  alert(Script running);
+script
+body
+html
